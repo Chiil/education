@@ -11,7 +11,7 @@ server.retrieve({
     'step'      : "0",
     'grid'      : "0.75/0.75",
     'time'      : "00",
-    'date'      : "1990-01-25/to/1990-01-25",
+    'date'      : "2007-01-20/to/2007-01-20",
     'type'      : "an",
     'class'     : "ei",
     'format'    : "netcdf",
